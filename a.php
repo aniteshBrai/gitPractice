@@ -1,3 +1,4 @@
 <?php
 $a = 10;
-echo $a;
+$b = $a;
+echo $a + $b;
